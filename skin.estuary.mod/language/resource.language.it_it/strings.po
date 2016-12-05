@@ -482,7 +482,7 @@ msgstr "Cerca su TheMovieDB"
 
 msgctxt "#31116"
 msgid "Remove this main menu item"
-msgstr "Rimuovi questo elemento menù principale"
+msgstr "Rimuovi questo elemento dal menù principale"
 
 msgctxt "#31117"
 msgid "Edit nodes"
@@ -605,7 +605,7 @@ msgstr "Non hai ancora impostato un client PVR. Per usare PVR, scegli un addon c
 #: /1080i/Home.xml
 msgctxt "#31144"
 msgid "Enter add-on browser"
-msgstr "Enter add-on browser"
+msgstr "Entra nel browser add-on"
 
 #: /1080i/Custom_1107_SearchDialog.xml
 msgctxt "#31145"
@@ -877,207 +877,207 @@ msgstr "Le barre d'informazioni sono sempre visualizzate"
 
 msgctxt "#40062"
 msgid "Recordslabels icons"
-msgstr "Icônes des maisons de disques"
+msgstr "Icone case discografiche"
 
 msgctxt "#40063"
 msgid "Show media path"
-msgstr "Chemin du média"
+msgstr "Visualizza percorso Media"
 
 msgctxt "#40064"
 msgid "Media path"
-msgstr "Chemin du média"
+msgstr "Percordo Media"
 
 msgctxt "#40065"
 msgid "Kiosk Mode"
-msgstr "Mode Kiosque"
+msgstr "Modo Kiosk"
 
 msgctxt "#40066"
 msgid "Background opacity"
-msgstr "Opacité de l'arrière-plan"
+msgstr "Opacità dello sfondo"
 
 msgctxt "#40067"
 msgid "Opacity "
-msgstr "Opacité à "
+msgstr "Opacità "
 
 msgctxt "#40068"
 msgid "Never"
-msgstr "Jamais"
+msgstr "Mai"
 
 msgctxt "#40069"
 msgid "Only on library"
-msgstr "Sur la bibliothèque uniquement"
+msgstr "Solo sulla libreria"
 
 msgctxt "#40070"
 msgid "All over skin"
-msgstr "Sur tout le thème"
+msgstr "Su tutta l'interfaccia"
 
 msgctxt "#40071"
 msgid "Hide info bars"
-msgstr "Masquer les barres d'informations"
+msgstr "Nascondi le barre d'informazione"
 
 msgctxt "#40072"
 msgid "Info bars are hidden only on library"
-msgstr "Les barres d'informations sont masquées uniquement sur la biblothèque"
+msgstr "Le barre d'informazione sono nascoste solo sulla libreria"
 
 msgctxt "#40073"
 msgid "Info bars are hidden all over skin"
-msgstr "Les barres d'informations sont masquées sur l'ensemble du thème"
+msgstr "Le barre d'informazione sono nascoste su tutta l'interfaccia"
 
 msgctxt "#40074"
 msgid "Add-on settings"
-msgstr "Paramètres des extensions"
+msgstr "Impostaziono Add-on"
 
 msgctxt "#40075"
 msgid "Hidden TV channels"
-msgstr "Chaînes TV cachées"
+msgstr "Canali TV nascosti"
 
 msgctxt "#40076"
 msgid "Visible TV channels"
-msgstr "Chaînes TV visibles"
+msgstr "Canali TV visibili"
 
 msgctxt "#40077"
 msgid "Access all of your favorites"
-msgstr "Accédez à l'ensemble de vos favoris"
+msgstr "Accesso a tutti i tuoi favoriti"
 
 msgctxt "#40078"
 msgid "Access all settings"
-msgstr "Accédez à l'ensemble des paramètres"
+msgstr "Accesso a tutte le impostazioni"
 
 msgctxt "#40079"
 msgid "Access to filemanager"
-msgstr "Accédez au gestionnaire de fichiers"
+msgstr "Access al filemanager"
 
 msgctxt "#40080"
 msgid "Access to power options"
-msgstr "Accédez aux options d'alimentation"
+msgstr "Accesso alle opzioni di Power"
 
 msgctxt "#40081"
 msgid "Do a research"
-msgstr "Effectuez une recherche"
+msgstr "Effettua una ricerca"
 
 msgctxt "#40082"
 msgid "Custom busy spinner"
-msgstr "Icône de chargement personnalisée"
+msgstr "Icona personalizzata di occupato"
 
 msgctxt "#40083"
 msgid "Show background video"
-msgstr "Afficher la vidéo en arrière-plan"
+msgstr "Guarda il video in background"
 
 msgctxt "#40084"
 msgid "Type of Widgets"
-msgstr "Type de Widgets"
+msgstr "Tipi di Widgets"
 
 msgctxt "#40085"
 msgid "Skin Helper Service Widgets"
-msgstr "Widgets Skin Helper Service"
+msgstr "Widgets del servizio di Skin Helper"
 
 msgctxt "#40086"
 msgid "Hide widget banner"
-msgstr "Masquer la bannière du widget"
+msgstr "Nascondi il widget banner"
 
 msgctxt "#40087"
 msgid "ClearArt position"
-msgstr "Position du logo transparent"
+msgstr "Posizione di ClearArt"
 
 msgctxt "#40088"
 msgid "To the right"
-msgstr "A droite"
+msgstr "A destra"
 
 msgctxt "#40089"
 msgid "To the left"
-msgstr "A gauche"
+msgstr "A sinistra"
 
 msgctxt "#40090"
 msgid "In the center"
-msgstr "Au centre"
+msgstr "Al centro"
 
 msgctxt "#40091"
 msgid "Big fanart"
-msgstr "Grand fanart"
+msgstr "Fanart grandi"
 
 msgctxt "#40092"
 msgid "Aired"
-msgstr "Diffusé le"
+msgstr "In onda"
 
 msgctxt "#40093"
 msgid "Big posters"
-msgstr "Grands posters"
+msgstr "Posters grandi"
 
 msgctxt "#40094"
 msgid "Library"
-msgstr "Bibliothèque"
+msgstr "Libreria"
 
 msgctxt "#40095"
 msgid "In-progress movies"
-msgstr "Films en cours"
+msgstr "Films in corso"
 
 msgctxt "#40096"
 msgid "Most played albums"
-msgstr "Albums les plus écoutés"
+msgstr "Albums più riprodotti"
 
 msgctxt "#40097"
 msgid "Random albums"
-msgstr "Albums aléatoires"
+msgstr "Albums casuali"
 
 msgctxt "#40098"
 msgid "Random artists"
-msgstr "Artistes aléatoires"
+msgstr "Artisti casuali"
 
 msgctxt "#40099"
 msgid "Random movies"
-msgstr "Films aléatoires"
+msgstr "Films casuali"
 
 msgctxt "#40100"
 msgid "Random music videos"
-msgstr "Clips musicaux aléatoires"
+msgstr "Video clips casuali"
 
 msgctxt "#40101"
 msgid "Unplayed albums"
-msgstr "Albums non écoutés"
+msgstr "Albums non riprodotti"
 
 msgctxt "#40102"
 msgid "Unwatched movies"
-msgstr "Films non vus"
+msgstr "Films non visti"
 
 msgctxt "#40103"
 msgid "Unwatched TV shows"
-msgstr "Séries TV non vues"
+msgstr "Series TV non viste"
 
 msgctxt "#40104"
 msgid "Hide notification popup during playback"
-msgstr "Masquer la fenêtre de notification lors de la lecture"
+msgstr "Nascondi il popup di notifica durante la riproduzione"
 
 msgctxt "#40105"
 msgid "Hide notification popup during video or music playback."
-msgstr "Permet de masquer la fenêtre de notification lors de la lecture de vidéos ou de musiques."
+msgstr "Nascondi il popup di notifica durante la riproduzione di video o musica."
 
 msgctxt "#40106"
 msgid "Select widgets first"
-msgstr "Sélectionner les widgets en premier"
+msgstr "Seleziona prima il widgets"
 
 msgctxt "#40107"
 msgid "Navigates main menu to widgets rather than main menu to submenus icons."
-msgstr "Permet de naviguer du menu principal vers les widgets plutôt que du menu principal vers les icônes des sous-menus."
+msgstr "Naviga ai principali widget del menu, piuttosto che le icone del menu principale ai sottomenu."
 
 msgctxt "#40108"
 msgid "Next aired"
-msgstr "Prochaine diffusion"
+msgstr "Prossimamente in onda"
 
 msgctxt "#40109"
 msgid "Last aired"
-msgstr "Dernière diffusion"
+msgstr "Ultima trasmissione"
 
 msgctxt "#40110"
 msgid "Views"
-msgstr "Vues"
+msgstr "Vista"
 
 msgctxt "#40111"
 msgid "Hardware info"
-msgstr "Informations matériel"
+msgstr "Informations hardware"
 
 msgctxt "#40112"
 msgid "Hard disk usage:"
-msgstr "Utilisation du disque dur :"
+msgstr "Utilizzo Hard Disk:"
 
 msgctxt "#40113"
 msgid "Show background visualisation effects"
