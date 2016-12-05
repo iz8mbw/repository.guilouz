@@ -26,7 +26,7 @@ msgstr "Cerca..."
 
 msgctxt "#31002"
 msgid "Show media fanart as background"
-msgstr "Mostra fanart elementi come sfondo"
+msgstr "Mostra elementi fanart come sfondo"
 
 msgctxt "#31003"
 msgid "Cinema mode"
