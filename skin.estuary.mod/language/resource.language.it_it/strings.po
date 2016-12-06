@@ -506,7 +506,7 @@ msgstr "Imposta provider meteo"
 
 msgctxt "#31122"
 msgid "Unwatched TV Shows"
-msgstr "Serie TV non viste"
+msgstr "Spettacoli televisivi non visti"
 
 msgctxt "#31123"
 msgid "Same director"
@@ -629,7 +629,7 @@ msgstr "Tastiera numerica"
 
 msgctxt "#40000"
 msgid "Show movies and tv shows clearlogos"
-msgstr "Mostra clearlogos di film e di Serie TV"
+msgstr "Mostra clearlogos di film e di spettacoli televisivi"
 
 msgctxt "#40001"
 msgid "Customize power menu"
@@ -669,7 +669,7 @@ msgstr "Widget Film"
 
 msgctxt "#40010"
 msgid "TV Shows widget"
-msgstr "Widget Serie TV"
+msgstr "Widget spettacoli televisivi"
 
 msgctxt "#40011"
 msgid "Music widget"
@@ -1041,7 +1041,7 @@ msgstr "Film non visti"
 
 msgctxt "#40103"
 msgid "Unwatched TV shows"
-msgstr "Serie TV non viste"
+msgstr "Spettacoli televisivi non visti"
 
 msgctxt "#40104"
 msgid "Hide notification popup during playback"
@@ -1117,7 +1117,7 @@ msgstr "Ripristina al valore predefinito gli elementi del menu Home e del menu A
 
 msgctxt "#40122"
 msgid "Hide top and bottom bars.[CR][[B]Never[/B]] Bars are always displayed.[CR][[B]Only on library[/B]] Bars are hidden only on Movies, TV Shows and Music libraries. [CR][[B]All over skin[/B]] Bars are hidden all over skin."
-msgstr "Nascondi le barre superiori e inferiori.[CR][[B]Mai[/B]] Visualizza sempre le barre.[CR][[B]Solo sulla Libreria[/B]] Nascondi le barre solo sui Film, Serie TV e Libreria Musicale.[CR][[B]Su tutta l'interfaccia[/B]] Nascondi le barre su tutta l'interfaccia."
+msgstr "Nascondi le barre superiori e inferiori.[CR][[B]Mai[/B]] Visualizza sempre le barre.[CR][[B]Solo sulla Libreria[/B]] Nascondi le barre solo sui Film, Spettacoli televisivi e Libreria Musicale.[CR][[B]Su tutta l'interfaccia[/B]] Nascondi le barre su tutta l'interfaccia."
 
 msgctxt "#40123"
 msgid "Show slide effect of skin windows."
@@ -1133,7 +1133,7 @@ msgstr "Mostra il meteo con data e ora sulla barra superiore."
 
 msgctxt "#40126"
 msgid "Replace episodes thumbnails by TV shows thumbnails"
-msgstr "Sostituisci le miniature degli episodi cone quelle della Serie TV"
+msgstr "Sostituisci le miniature degli episodi con quelle degli spettacoli televisivi"
 
 msgctxt "#40127"
 msgid "Show media flags icons such as resolution, ratio, video codec, audio codec, number of channels, duration..."
@@ -1149,7 +1149,7 @@ msgstr "Mostra i poster animati al posto dei poster convenzionali. I poster conv
 
 msgctxt "#40130"
 msgid "Show movies and TV shows clearlogos on video library."
-msgstr "Mostra i clearlogos di Film e Serie TV sulla libreria video."
+msgstr "Mostra i clearlogos di Film e spettacoli televisivi sulla libreria video."
 
 msgctxt "#40131"
 msgid "Show artists clearlogos on music library."
