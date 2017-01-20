@@ -238,7 +238,7 @@ msgstr "Premi [B]Sinistra[/B] per riavvolgere, o [B]Destra[/B] per avanzare velo
 
 msgctxt "#31055"
 msgid "Subtitle download"
-msgstr "Scarica Sottotitolo"
+msgstr "Scarica sottotitoli"
 
 msgctxt "#31056"
 msgid "Go to playlist"
@@ -633,7 +633,7 @@ msgstr "Mostra clearlogos di film e di Serie TV"
 
 msgctxt "#40001"
 msgid "Customize power menu"
-msgstr "Personalizza il Menù Alimentazione"
+msgstr "Personalizza il menù Alimentazione"
 
 msgctxt "#40002"
 msgid "Home menu"
@@ -809,7 +809,7 @@ msgstr "OSD Video"
 
 msgctxt "#40045"
 msgid "Show ClearArt on video infos"
-msgstr "Mostra le ClearArt sulle info Video"
+msgstr "Mostra ClearArt sulle info Video"
 
 msgctxt "#40046"
 msgid "Visualization of the video screen related settings."
@@ -825,7 +825,7 @@ msgstr "Addons necessari per prestazioni ottimali."
 
 msgctxt "#40049"
 msgid "Show ClearArt with NextUp Notification addon"
-msgstr "Mostra le ClearArt con l'addon NextUp Notification"
+msgstr "Mostra ClearArt con l'addon NextUp Notification"
 
 msgctxt "#40050"
 msgid "Enter the paths of your RSS feeds"
@@ -1798,3 +1798,11 @@ msgstr "Imposta il numero di elementi da visualizzare sui widget."
 msgctxt "#40292"
 msgid "votes"
 msgstr "voti"
+
+msgctxt "#40293"
+msgid "Eject"
+msgstr "Espelli"
+
+msgctxt "#40294"
+msgid "Hide Spoilers"
+msgstr "Nascondi spoiler"
